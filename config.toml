@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Pers første skikkelige hugo på Netlify"
+theme = "ananke"
+baseURL = "http://hugoquickstart.oja.no"
